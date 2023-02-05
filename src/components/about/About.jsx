@@ -12,7 +12,7 @@ const About = () => {
         </div>
         <div className="a-right">
             <h1 className="a-title">Acerca de mí</h1>
-            <p className="a-sub">Inicie mi camino en el mundo IT de manera autodidacta, pero durante el 2022 hice el curso de Desarrollo Web Full Stack en la plataforma Nucba. Gracias a todo lo aprendido en este tiempo, pudo maquetar y dar estilos para sitios web y crear diseños totalmente adaptables a diferentes pantallas, además de que sean dinámicas por medio de la manipulación del contenido usando Javascript.
+            <p className="a-sub">Inicie mi camino en el mundo IT de manera autodidacta, pero durante el 2022 hice el curso de Desarrollo Web Full Stack en la plataforma Nucba. Gracias a todo lo aprendido en este tiempo, puedo maquetar y dar estilos para sitios web y crear diseños totalmente adaptables a diferentes pantallas, además de que sean dinámicas por medio de la manipulación del contenido usando Javascript.
             </p>
             <p className="a-desc">Partiendo desde las bases de Html, Css y Javascript, que son esenciales en el desarrollo front-end, busco ir mejorando mis habilidades con la realización de cada proyecto, y brindando a cada usuario páginas atractivas y funcionales que le permitan una buena experiencia.
             </p>
